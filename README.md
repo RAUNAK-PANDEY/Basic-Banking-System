@@ -1,5 +1,5 @@
 # The Sparks Foundation
-# Task -01
+# Task-01
 ## Basic-Banking-System
 ### A Banking System dynamic website using HTML , CSS , PHP and MySQL database which is used to do transaction between multiple users.
 # Screenshots 📸
